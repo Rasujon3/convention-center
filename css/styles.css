@@ -37,12 +37,12 @@ body {
     margin-bottom: 30px;
   }
   #banner-caption {
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 700;
   }
   #banner-description {
     /* display: none; */
-    font-size: 10px;
+    font-size: 5px;
   }
 }
 
